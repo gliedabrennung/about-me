@@ -7,4 +7,4 @@
 
 **Languages:** Python, Golang, SQL, NoSQL
 
-**Tools:** Google ADK, Apache Kafka, ELK, Grafana, мне лень перечеслять крч я ЛУЧШИй
+**Tools:** Google ADK, Apache Kafka, ELK, Grafana, мне лень перечеслять
